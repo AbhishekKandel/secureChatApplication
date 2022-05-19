@@ -1,4 +1,4 @@
-# secureChatApplication
+# SecureChatApplication
 A project for completion of the J component of Information Security Management course.
 
 Our project is a secure chat application with aes encryption and google firebase authentication for extra security, will store the db in google firebase, and our application can be used with any android device.
