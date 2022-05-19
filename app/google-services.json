@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745431894906",
+    "firebase_url": "https://chatapp-bd620-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-bd620",
+    "storage_bucket": "chatapp-bd620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745431894906:android:fe9771e09330e6137524c3",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745431894906-sh7al2de1srbk8rgrc5gijqeo23v4i7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZfil7l0Ma7trlyD5f3NRY2XHfxe6t9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745431894906-sh7al2de1srbk8rgrc5gijqeo23v4i7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
